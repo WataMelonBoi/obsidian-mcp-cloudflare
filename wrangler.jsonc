@@ -8,8 +8,8 @@
     { "binding": "OAUTH_KV", "id": "445f408ae0764559b72c309bee96b4bd" }
   ],
   "r2_buckets": [
-    { "binding": "VAULT", "bucket_name": "obsidian" }
-  ],
+  { "binding": "VAULT", "bucket_name": "obsidian", "jurisdiction": "eu" }
+],
   "durable_objects": {
     "bindings": [
       { "name": "MCP_OBJECT", "class_name": "ObsidianMCP" }
