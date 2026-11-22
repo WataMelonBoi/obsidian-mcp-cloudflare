@@ -12,7 +12,7 @@
     { "pattern": "${MCP_HOSTNAME}", "custom_domain": true }
   ],
   "kv_namespaces": [
-    { "binding": "OAUTH_KV", "id": "${OAUTH_KV_ID}" }
+    { "binding": "OAUTH_KV", "id": "${445f408ae0764559b72c309bee96b4bd}" }
   ],
   "r2_buckets": [
     { "binding": "VAULT", "bucket_name": "${obsidian}" }
