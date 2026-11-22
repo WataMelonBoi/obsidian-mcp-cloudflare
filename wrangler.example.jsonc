@@ -15,7 +15,7 @@
     { "binding": "OAUTH_KV", "id": "${OAUTH_KV_ID}" }
   ],
   "r2_buckets": [
-    { "binding": "VAULT", "bucket_name": "${R2_BUCKET_NAME}" }
+    { "binding": "VAULT", "bucket_name": "${obsidian}" }
   ],
   "durable_objects": {
     "bindings": [
